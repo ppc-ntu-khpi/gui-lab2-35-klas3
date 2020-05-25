@@ -9,15 +9,19 @@
 ---
 
 Головне вікно додатку.
+
 <img src="https://github.com/ppc-ntu-khpi/gui-lab2-35-klas3/blob/master/other/MainScreen.png" width="50%" />
 
 Масштабоване вікно додатку разом з інформацією про клієнта.
+
 <img src="https://github.com/ppc-ntu-khpi/gui-lab2-35-klas3/blob/master/other/ScaledScreen.png" width="50%" />
 
 Вікно зі вітом про клієнтів.
+
 <img src="https://github.com/ppc-ntu-khpi/gui-lab2-35-klas3/blob/master/other/CustomersReport.png" width="50%" />
 
 Повідомлення про успішну операцію нарахування коштів на рахунок клієнта.
+
 <img src="https://github.com/ppc-ntu-khpi/gui-lab2-35-klas3/blob/master/other/SucceededOperation.png" width="50%" />
 
 ![](https://img.shields.io/badge/Made%20with-JAVA-red.svg)
